@@ -17,7 +17,7 @@ public class FirstApp {
     public static void main(String[] args) {
         // TODO code application logic here
         // a few changes :P
-        
+        System.out.println("Hi");
     }
     
 }
