@@ -20,6 +20,8 @@ public class FirstApp {
         System.out.println("Hi");
         
         //new changes added xD
+        
+        //And again - more changes!
     }
     
 }
