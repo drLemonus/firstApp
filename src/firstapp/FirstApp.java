@@ -18,6 +18,8 @@ public class FirstApp {
         // TODO code application logic here
         // a few changes :P
         System.out.println("Hi");
+        
+        //new changes added xD
     }
     
 }
